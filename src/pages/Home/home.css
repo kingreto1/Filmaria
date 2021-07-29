@@ -1,0 +1,42 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 800px;
+}
+
+.filmeCard {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 3rem auto;
+}
+
+.filmeCard img{
+    border-radius: 0px;
+}
+
+.filmeCard strong{
+    font-size: 1.3rem;
+    margin-bottom: 1rem;
+}
+
+.acesso {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    background: brown;
+    color: #fafafa;
+
+    font-size: 1.3rem;
+
+    padding: .4rem;
+    width: 100%;
+
+    border-radius: 0 0 8px 8px;
+
+    margin-top: -1rem;
+}

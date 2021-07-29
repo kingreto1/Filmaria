@@ -1,0 +1,26 @@
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+    margin-bottom: 1rem;
+    width: 100%;
+    padding: .5rem;
+
+    background: rgb(218, 20, 59);
+}
+
+header .logo{
+    font-size: 1.8rem;
+    color: #fafafa;
+    cursor: pointer;
+}
+
+header .fav{
+    background-color: #fafafa;
+    cursor: pointer;
+    padding: 0.3rem;
+    border-radius: 5px;
+    font-weight: bold;
+    color: #000;
+}

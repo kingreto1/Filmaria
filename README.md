@@ -2,6 +2,8 @@
 
 ## Tecnologias
 
+Esse projeto foi feito com base na API: https://sujeitoprogramador.com/r-api/?api=filmes/
+
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML
 - CSS
